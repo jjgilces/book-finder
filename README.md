@@ -1,33 +1,32 @@
-# Nombre del Proyecto
+# Book Finder
 
-Descripción breve del proyecto: Este proyecto es una aplicación web de gestión de biblioteca personal donde los usuarios pueden buscar libros, añadirlos a una lista de lectura personalizada, y visualizar detalles relevantes de cada libro.
+This project is a personal library management website where users can search for books, add them to a personalized reading list, and view relevant details for each book.
 
-## Funcionalidades
+## Features
 
-- **Búsqueda de Libros**: Los usuarios pueden buscar libros por título, autor o ISBN.
-- **Lista de Lectura**: Los usuarios pueden añadir o eliminar libros de su lista de lectura personal.
-- **Detalles del Libro**: Acceso a información detallada de cada libro como el año de publicación, autor, y género.
+- **Book search**: Users can search for books by title, author, or ISBN.
+- **Reading List**: Users can add or remove books from their personal reading list.
+- **Book Details**: Access to detailed information about each book such as year of publication, author, and genre.
 
-## Tecnologías Utilizadas
+## Stack technology
 
-Este proyecto utiliza varias tecnologías y bibliotecas importantes en el desarrollo web moderno:
+This project uses several technologies and libraries important in modern web development:
 
-- **React**: Una biblioteca de JavaScript para construir interfaces de usuario.
-- **Redux Toolkit**: Una herramienta para manejar el estado de la aplicación de manera eficiente.
-- **React Router**: Utilizado para la navegación entre diferentes componentes y vistas en la aplicación.
-- **Tailwind CSS**: Un framework CSS para diseñar rápidamente interfaces personalizadas sin salir de tu HTML.
-- **Axios**: Utilizado para hacer solicitudes HTTP a APIs externas o internas.
-- **React Icons**: Proporciona iconos populares que pueden ser incorporados fácilmente en proyectos de React.
+- **React**
+- **Redux Toolkit**
+- **React Router**
+- **Tailwind CSS**
+- **Axios**
+- **React Icons**
 
-## Instalación
+## Steps
 
-Para instalar y correr este proyecto localmente, sigue los siguientes pasos:
+To install and run this project locally, follow these steps:
 
 ```bash
-# Clona el repositorio
+# Clone the repository
 git clone https://github.com/tu-usuario/tu-repositorio.git
 
-# Navega al directorio del proyecto
 cd nombre-de-tu-proyecto
 
 # Instala las dependencias

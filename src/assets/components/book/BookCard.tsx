@@ -34,7 +34,7 @@ const BookCard: React.FC<BookCardProps> = ({book }) => {
               </span>            
                 </button>
               <p className="tooltip">
-                Agregar a Favoritos.
+              {isFavorite? 'Eliminar de favoritos': 'Agregar a Lista de lectura.'}
               </p>
             </div>
             </div>
